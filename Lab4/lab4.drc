@@ -173,19 +173,10 @@ Clearance:
 	Ignored Errors: 0
 Unrouted Nets:
 	Errors:         0
-
-----------------------------------------------------------------------
-
-13-Nov-25  03:53                                            Page    3
-
-P-CAD Design Rule Check Report
-
-======================================================================
-
 	Warnings:       0
 	Ignored Errors: 0
 Unconnected Pins:
-	Errors:         6
+	Errors:         0
 	Warnings:       0
 	Ignored Errors: 0
 Net Length:
