@@ -1,0 +1,59 @@
+PCAD Importer Log
+Project : lab4.PrjPcb
+
+Section : D:\Documents\Documents\Pcad-Symbols\Lab4\lab4.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 206
+        Warning - 1 : Skipping Token defaultPinDes On Line 207
+        Warning - 1 : Skipping Token defaultPinDes On Line 250
+        Warning - 1 : Skipping Token defaultPinDes On Line 251
+        Warning - 1 : Skipping Token defaultPinDes On Line 294
+        Warning - 1 : Skipping Token defaultPinDes On Line 295
+        Warning - 1 : Skipping Token defaultPinDes On Line 296
+        Warning - 1 : Skipping Token defaultPinDes On Line 297
+        Warning - 1 : Skipping Token defaultPinDes On Line 298
+        Warning - 1 : Skipping Token defaultPinDes On Line 299
+        Warning - 1 : Skipping Token defaultPinDes On Line 300
+        Warning - 1 : Skipping Token defaultPinDes On Line 301
+        Warning - 1 : Skipping Token defaultPinDes On Line 302
+        Warning - 1 : Skipping Token defaultPinDes On Line 303
+        Warning - 1 : Skipping Token defaultPinDes On Line 304
+        Warning - 1 : Skipping Token defaultPinDes On Line 305
+        Warning - 1 : Skipping Token defaultPinDes On Line 306
+        Warning - 1 : Skipping Token defaultPinDes On Line 307
+        Warning - 1 : Skipping Token defaultPinDes On Line 454
+        Warning - 1 : Skipping Token defaultPinDes On Line 455
+        Warning - 1 : Skipping Token defaultPinDes On Line 483
+        Warning - 1 : Skipping Token defaultPinDes On Line 484
+        Warning - 1 : Skipping Token attachedSymbol On Line 532
+        Warning - 1 : Skipping Token attachedSymbol On Line 565
+        Warning - 1 : Skipping Token attachedSymbol On Line 566
+        Warning - 1 : Skipping Token attachedSymbol On Line 599
+        Warning - 1 : Skipping Token attachedSymbol On Line 620
+        Warning - 1 : Skipping Token attachedSymbol On Line 641
+        Warning - 1 : Skipping Token refPointSize On Line 762
+        Warning - 1 : Skipping Token infoPointSize On Line 763
+        Warning - 1 : Skipping Token gluePointSize On Line 764
+        Warning - 1 : Skipping Token pickPointSize On Line 765
+        Warning - 1 : Skipping Token testPointSize On Line 766
+        Warning - 1 : Skipping Token refPointSizePrint On Line 767
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 768
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 769
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 770
+        Warning - 1 : Skipping Token testPointSizePrint On Line 771
+        Warning - 1 : Skipping Token solderFlowDirection On Line 772
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 773
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 774
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 775
+        Warning - 1 : Skipping Token drillSymSettings On Line 1062
+        Warning - 1 : Skipping Token gerberSettings On Line 1064
+        Warning - 1 : Skipping Token ncDrillSettings On Line 1078
+        Warning - 1 : Skipping Token programState On Line 1087
+        Warning - 1 : Skipping Token displayDrawOrder On Line 1128
+        Warning - 1 : Skipping Token reportSettings On Line 1351
+        Warning - 1 : Skipping Token odbSettings On Line 2048
+    EndSection
+
+    Section : Import Messages
+    EndSection
+EndSection
